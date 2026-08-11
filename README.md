@@ -1,4 +1,4 @@
-# 👋 Hey, I'm Subash S S
+# Hey, I'm Subash S S
 
 ### AI/ML Engineer · AI Application Developer · Data & Design Enthusiast
 
